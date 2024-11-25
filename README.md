@@ -3,7 +3,7 @@
   <img   src="https://camo.githubusercontent.com/f75f70e9ceb79ce41e7539e114cb15684174748d65faefbb53f72f5c2d8af41c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39642f65612f36342f39646561363432326166656531353063626532663635623533313732383565622e676966">
 </p>
 <h1 align="center">Hi , I'm Aneesha!</h1>
-<h3 align="center">A passionate developer and data analyst</h3>
+<h3 align="center"i code hehe</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/26xBNDAPnoLBKGRiw"> -->
 
 
